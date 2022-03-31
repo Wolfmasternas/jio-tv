@@ -152,8 +152,8 @@ button.neu-light.active{
 </head>
 <body>
 
-<a class="buttoncs" href="https://cdn.streamhub.ga/jointelegram" style="width:100%;padding:0px 0px 0px 0px;margin:0px 0px 0px 0px; ">
-<h2 style="font-size: 30px;padding:0px 0px 0px 0px;margin:0px 0px 0px 0px;color: coral;text-shadow: -1px 0 black, 0 1px black, 1px 0 red, 0 -1px green;"><img src="https://telegra.ph/file/5cabea6df87ba5433ac16.png" height="70" width="70" ><br>STREAM HUB</h2>
+<a class="buttoncs" href="https://cdn.wolftvOfficial.ga/jointelegram" style="width:100%;padding:0px 0px 0px 0px;margin:0px 0px 0px 0px; ">
+<h2 style="font-size: 30px;padding:0px 0px 0px 0px;margin:0px 0px 0px 0px;color: coral;text-shadow: -1px 0 black, 0 1px black, 1px 0 red, 0 -1px green;"><img src="https://telegra.ph/file/cb58999f1510d1554e205.png" height="70" width="70" ><br>Wolf TV</h2>
 
 </a>
 <br>
@@ -260,7 +260,7 @@ button.neu-light.active{
 
 
 <hr>
-<a class="buttoncs" href="https://cdn.streamhub.ga/jointelegram" style="width:100%;padding:0px 0px 0px 0px;margin:0px;">
+<a class="buttoncs" href="https://cdn.wolftvOfficial.ga/jointelegram" style="width:100%;padding:0px 0px 0px 0px;margin:0px;">
  <h2 style="font-size: 20px;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;">&nbsp;Join Our Telegram Channel Now</h2>
 </a>
 <hr>
